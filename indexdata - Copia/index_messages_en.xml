@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano>
+
+<!-- ************************ -->
+<!--         Messages         -->
+<!-- ************************ -->
+
+  <data name="en_project_title"><![CDATA[New Project]]></data>
+
+
+
+  <data name="en_pano151_title"><![CDATA[IMG_20261121_162511_00_006]]></data>
+
+
+  <data name="en_pano152_title"><![CDATA[IMG_20261121_162556_00_007]]></data>
+
+
+  <data name="en_pano153_title"><![CDATA[IMG_20261121_162625_00_008]]></data>
+
+
+  <data name="en_pano154_title"><![CDATA[IMG_20261121_162654_00_009]]></data>
+
+
+  <data name="en_pano155_title"><![CDATA[IMG_20261121_162715_00_010]]></data>
+
+
+  <data name="en_pano156_title"><![CDATA[IMG_20261121_162753_00_011]]></data>
+
+
+  <data name="en_pano157_title"><![CDATA[IMG_20261121_162819_00_012]]></data>
+
+
+  <data name="en_pano158_title"><![CDATA[IMG_20261121_162922_00_013]]></data>
+
+
+  <data name="en_pano159_title"><![CDATA[IMG_20261121_162941_00_014]]></data>
+
+
+	<data name="en_spotmap169_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap170_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap171_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap172_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap173_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap174_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap175_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap176_tooltip"><![CDATA[]]></data>
+	<data name="en_spotmap177_tooltip"><![CDATA[]]></data>
+
+
+
+
+  <data name="en_prevnexttheme2prevSceneTip"><![CDATA[Previous Scene]]></data>
+  <data name="en_prevnexttheme2nextSceneTip"><![CDATA[Next Scene]]></data>
+  <data name="en_projectionMenumenutitlelabel"><![CDATA[Proiezioni]]></data>
+  <data name="en_projectionMenunormallabel"><![CDATA[Normal View]]></data>
+  <data name="en_projectionMenufisheyelabel"><![CDATA[Fisheye View]]></data>
+  <data name="en_projectionMenuarchitecturallabel"><![CDATA[Architectural View]]></data>
+  <data name="en_projectionMenustereographiclabel"><![CDATA[Stereographic View]]></data>
+  <data name="en_projectionMenupanninilabel"><![CDATA[Pannini View]]></data>
+  <data name="en_projectionMenulittleplanetlabel"><![CDATA[Little Planet View]]></data>
+  <data name="en_projectionMenufisheyeballlabel"><![CDATA[Fisheye Ball View]]></data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</krpano>
