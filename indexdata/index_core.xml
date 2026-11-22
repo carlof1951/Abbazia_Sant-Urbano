@@ -196,7 +196,8 @@
 
   <action name="mainloadscene">
     interruptAnimation();
-    if (xml.scene != %1, loadscene(%1, NULL, MERGE, BLEND(1)); );
+    resetbackgroundsoundifneeded(%1);
+    if (xml.scene != %1, stopTourSoundsActions(true,true,true,false);loadscene(%1, NULL, MERGE, BLEND(1)); );
   </action>
 
   <!-- Load Previous Scene -->
